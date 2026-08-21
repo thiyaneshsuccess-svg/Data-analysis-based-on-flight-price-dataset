@@ -143,7 +143,7 @@ without opening the notebook)*
 
 ![Correlation Heatmap](screenshots/correlation_heatmap.png)
 
-![alt text](image-1.png)
+![alt text](image-2.png)
 
 
 ```
