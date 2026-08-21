@@ -19,14 +19,7 @@ analysis-ready form, engineer features that make analysis possible, and identify
 factors most influence flight price. The end goal is to help a traveler understand
 *what actually matters* when booking a flight, not just describe the dataset.
 
-## Installation Instructions
 
-```bash
-git clone <this-repo-url>
-cd <repo-folder>
-pip install -r requirements.txt
-jupyter notebook
-```
 
 Then open and run, in order:
 1. `solution.ipynb` (or `day1_data_prep_eda.ipynb`) — cleaning, feature engineering, early EDA
