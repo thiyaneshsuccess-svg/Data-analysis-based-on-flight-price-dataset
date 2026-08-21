@@ -13,6 +13,12 @@ visualizations, and translating chart patterns into ranked insights.
 
 ## Problem Statement
 
+Build a data-driven solution to analyze flight prices, uncover the factors that drive costs, and help travelers make smarter decisions. Part 1 - Exploration
+ ⚫ Clean and preprocess the data 
+ ⚫ Create at least 5 meaningful visualizations 
+ ⚫ Identify major factors affecting flight prices 
+ ⚫ Present insights and recommendations 
+
 Given a raw flight pricing dataset with realistic messiness — inconsistent category
 labels, mixed units, missing values, and duplicate rows — clean it into an
 analysis-ready form, engineer features that make analysis possible, and identify which
