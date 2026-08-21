@@ -136,7 +136,16 @@ without opening the notebook)*
 
 ```markdown
 ![Price Distribution](screenshots/price_distribution.png)
+![alt text](image.png)
+
+
+
+
 ![Correlation Heatmap](screenshots/correlation_heatmap.png)
+
+![alt text](image-1.png)
+
+
 ```
 
 ## Demo Video
