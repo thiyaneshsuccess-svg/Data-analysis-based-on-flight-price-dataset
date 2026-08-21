@@ -21,12 +21,11 @@ factors most influence flight price. The end goal is to help a traveler understa
 
 
 
-Then open and run, in order:
-1. `solution.ipynb` (or `day1_data_prep_eda.ipynb`) — cleaning, feature engineering, early EDA
-2. `day2_visualization_insights.ipynb` — visualizations, insights, recommendations
+## Installation instructions:
 
-Run each notebook top to bottom (Restart Kernel → Run All) rather than executing cells
-out of order, since later cells depend on earlier ones.
+https://github.com/thiyaneshsuccess-svg/Data-analysis-based-on-flight-price-dataset.git
+
+
 
 ## Dataset Used
 
