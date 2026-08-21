@@ -130,4 +130,5 @@ Python, pandas, numpy, matplotlib, seaborn, Jupyter Notebook, Git/GitHub.
 
 ## Screenshots
 
-ADDED SCREENSHOTS IN IN SEP FILE IN GITHUB
+ADDED FEW SCREENSHOTS IN IN SEP FILE IN GITHUB
+REST IN DOC LINK
