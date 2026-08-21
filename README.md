@@ -130,26 +130,7 @@ Python, pandas, numpy, matplotlib, seaborn, Jupyter Notebook, Git/GitHub.
 
 ## Screenshots
 
-*(Add 2-3 screenshots of your favorite charts here before submitting, e.g. the
-correlation heatmap and the price-by-class boxplot — makes the README easier to skim
-without opening the notebook)*
-
-```markdown
-![Price Distribution](screenshots/price_distribution.png)
-![alt text](image.png)
+ADDED SCREENSHOTS IN IN SEP FILE IN GITHUB
 
 
-
-
-![Correlation Heatmap](screenshots/correlation_heatmap.png)
-
-![alt text](image-2.png)
-
-
-c:\Users\DELL\Downloads\THIYANESH COLLEGE\VIT\CSE DOES\cs python hw and practice\corelation heatmap.jpeg```
-
-## Demo Video
-
-*(Link here — 3–5 min walkthrough covering: problem statement → cleaning approach →
-each visualization + its insight → key recommendations)*
 
