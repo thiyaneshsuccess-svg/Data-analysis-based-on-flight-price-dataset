@@ -1,7 +1,7 @@
 
 # AI Travel Analyst — Flight Price Analysis
 
-**MIC AIML Department Recruitment Challenge — Data Science & Visualization Track (Part 1)**
+**Data Science & Visualization Track (Part 1)**
 
 ## Project Overview
 
@@ -131,22 +131,3 @@ Python, pandas, numpy, matplotlib, seaborn, Jupyter Notebook, Git/GitHub.
 ## Screenshots
 
 ADDED SCREENSHOTS IN IN SEP FILE IN GITHUB
-
-
-
-<<<<<<< HEAD
-=======
-
-![Correlation Heatmap](screenshots/correlation_heatmap.png)
-
-![alt text](image-2.png)
-
-
-```
-
-## Demo Video
-
-*(Link here — 3–5 min walkthrough covering: problem statement → cleaning approach →
-each visualization + its insight → key recommendations)*
-
->>>>>>> parent of 6408a39 (ADDED SCREENSHOT)
